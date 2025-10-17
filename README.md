@@ -4,7 +4,8 @@ POC de Custom Tabs (Android) e Safari View Controller (iOS) em Flutter - Portado
 
 ## 📱 Descrição
 
-Este projeto é uma implementação Flutter equivalente ao projeto Android Kotlin original. Demonstra o uso de Custom Tabs para abrir URLs de forma nativa e gerenciar callbacks através de deep links, com **fechamento automático** do Custom Tab/Safari quando o callback é recebido.
+Este projeto é uma implementação Flutter.
+Demonstra o uso de Custom Tabs para abrir URLs de forma nativa e gerenciar callbacks através de deep links, com **fechamento automático** do Custom Tab/Safari quando o callback é recebido.
 
 ## ✨ Funcionalidades
 
